@@ -15,4 +15,3 @@ console.log(`1 + 1 = ${1 + 1}!`)
 
 const up = s => s.toUpperCase()
 console.log(`Ei... ${up('Cuidado')}!`)
-console.log(`Ei... ${toUpperCase('Cuidado')}`)
