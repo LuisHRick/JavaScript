@@ -15,4 +15,4 @@ let ola = function () {
 
 ola = () => 'Olá'
 ola = _ => 'Olá'  // possui parâmetro
-console.log(ola())
+console.log(ola())  
