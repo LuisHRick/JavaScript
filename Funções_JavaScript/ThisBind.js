@@ -24,3 +24,7 @@ console.log(person.fullName())       // (person this) como parâmetro
 
 let fullName = person.fullName.bind(member);
 console.log(fullName())             //  (member this) como parâmetro
+
+
+// bind() também é usado para preservar o 'this' da função
+// {exemplo pendente}
