@@ -12,7 +12,8 @@ function compararPontuacao(pontos) {
             menorValor = v
         }
     }
-    return recordes, menorValor
+    console.log(`Pontos Recordes: ${recordes}`)
+    console.log(`Menor Valor: ${menorValor}`)
 }
 
-console.log(compararPontuacao(pontuações))
+compararPontuacao(pontuações)
