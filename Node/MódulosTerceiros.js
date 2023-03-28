@@ -3,6 +3,7 @@
 
 // npm - node package manager
 // i - install
+// Sempre instalará na pasta o terminal no qual você está utilizando
 
 // npm i lodash
 
