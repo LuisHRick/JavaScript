@@ -1,3 +1,5 @@
+// O Objeto Map() é, basicamente, um dicionário do Python
+
 const tecnologias = new Map()
 tecnologias.set('react', { framework: false })
 tecnologias.set('angular', { framework: true })
