@@ -31,4 +31,7 @@ gerarNumerosEntre(1, 5, [1, 2, 4])
 
 gerarMegaSena(8)
     .then(console.log)
+    .then(console.log)
+    .then(console.log)
+    .then(console.log)
     .catch(console.log)
